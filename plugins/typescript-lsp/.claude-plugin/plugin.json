@@ -1,0 +1,8 @@
+{
+  "name": "typescript-lsp",
+  "description": "TypeScript/JavaScript language server for enhanced code intelligence",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}

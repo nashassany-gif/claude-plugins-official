@@ -1,0 +1,8 @@
+{
+  "name": "clangd-lsp",
+  "description": "C/C++ language server (clangd) for code intelligence",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}
