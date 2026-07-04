@@ -1,8 +1,0 @@
-{
-  "name": "lua-lsp",
-  "description": "Lua language server for code intelligence",
-  "author": {
-    "name": "Anthropic",
-    "email": "support@anthropic.com"
-  }
-}

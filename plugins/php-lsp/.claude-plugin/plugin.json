@@ -1,8 +1,0 @@
-{
-  "name": "php-lsp",
-  "description": "PHP language server (Intelephense) for code intelligence",
-  "author": {
-    "name": "Anthropic",
-    "email": "support@anthropic.com"
-  }
-}
